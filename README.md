@@ -137,11 +137,6 @@ This ETL process is designed for flexibility and adaptability, making it a robus
 
 ---
 
-## 🖋️ Authors
-- [Ankit Bhatia](https://www.linkedin.com/in/ankit-bhatia12/) - Graduate MIS Student at University of Texas at Arlington | Ex-Business Data Analyst at Tata Consultancy Services (TCS)
-
----
-
 ## 💡 Future Work
 - Add advanced visualizations using Tableau or Power BI.
 - Integrate machine learning models for predictive analytics.
